@@ -1,4 +1,4 @@
-# Demploy a game server on Red Hat OpenShift
+# Deploy a game server on Red Hat OpenShift
 
 Ever wondered how popular online game developers create real-time multiplayer games? Have you heard of Red Hat OpenShift (RHOS) and are you interested in learning how to deploy to the container orchestration platform? 
 
