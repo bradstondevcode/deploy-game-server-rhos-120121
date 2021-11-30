@@ -11,17 +11,15 @@ Join Bradston Henry, an IBM Developer Advocate, as he guides you in deploying yo
 - Overview of Red Hat OpenShift
 - How to Deploy a Node Server to Red Hat OpenShift
 
-
 ## 🔥 Important Workshop First Steps 🔥
 
 - ✅ Sign-up for FREE IBM Cloud Account:  [IBM Cloud Signup](https://ibm.biz/BdfQdh)
 - ✅ Install Node.JS:  [Download Page](https://nodejs.org/en/)
 - ✅ Get Access to a Red Hat Open Shift Clusters:  **See Steps Below**
-- ✅ Sample Server Code for Workshop: [Located in this Repo]()
-- ✅ Sample Client Code for Workshop: [Located in this Repo]()
+- ✅ Sample Server Code for Workshop: [Located in this Repo](https://github.com/bradstondevcode/deploy-game-server-rhos-120121/tree/master/server)
+- ✅ Sample Client Code for Workshop: [Located in this Repo](https://github.com/bradstondevcode/deploy-game-server-rhos-120121/tree/master/client)
 - ✅ Download PDF of Workshop in Repo: [View Here]()
-- ✅ Check out blog version of Workshop! [IBM Developer Blog]()
-
+- ✅ Check out blog version of Workshop! [IBM Developer Blog](https://ibm.biz/deploy-game-server-article-ibmdeveloper-bradstondev)
 
 ## Get Access to Red Hat OpenShift Workshop Cluster
 
@@ -42,7 +40,6 @@ Use the steps below to get access for Access for 24hrs to a Red Hat OpenShift cl
 4) Enjoy! 😎
 
 
-
 ## 😁Please Take Survey After Workshop😁
 
 This helps me to know how I can improve and make future workshops and webinars EVEN better!
@@ -53,12 +50,24 @@ Thanks in Advance!
 
 ### Resources in Repo
 
-- Workshop Slides: [View Here!](https://raw.githubusercontent.com/bradstondevcode/Red-Hat-OpenShift-1002/master/RHOS_1002-09_09_2021.pdf)
+- Workshop Slides: [View Here!]()
 
-### Watch Replays of Sessions
+### Watch Replays of Session
 
 - Coming Soon
 
+## What's Next
+
+#### IBM Developer Article: “Deploy a game server on Red Hat OpenShift”
+[Read Here](https://ibm.biz/deploy-game-server-article-ibmdeveloper-bradstondev)
+
+
+#### Digital Developer Conference: Cloud Security 2021 - December 7th, 2021
+[Register Here](https://developer.ibm.com/conferences/digital-developer-conference-security/)
+
+#### Creating a Multiplayer Game Series
+[Watch on Youtube](https://www.youtube.com/playlist?list=PLMygHu90DtpHqU0wSZ4yUY8yFe2cI56Ok)
+[Read on Dev.to Blog](https://ibm.biz/creating-mutliplayer-game-server-ep-1-bradstondev)
 
 ## Bonus Learning
 
@@ -76,7 +85,6 @@ Level Up your Skills: Get Your “Build on Kubernetes” Badge [Crowdcast](https
 
 IBM Open Labs (Red Hat OpenShift on IBM Cloud) [Website](https://ibm.biz/open-labs-red-ha-openshift-bradstondev)
 
-
 ## Feel Free to Follow Me on Social Media
 
 Twitter: [Bradston Dev](https://twitter.com/BradstonDev)
@@ -86,7 +94,6 @@ Dev.to: [@BradstonDev](https://dev.to/bradstondev)
 Youtube: [Bradston YT](https://www.youtube.com/channel/UC6Ky8s71RP65akLb_XV1_OA)
 
 Linkedin: [Bradston Henry](https://www.linkedin.com/in/bradston-henry/)
-
 
 ## Other Stuff
 
