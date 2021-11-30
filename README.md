@@ -13,7 +13,7 @@ Join Bradston Henry, an IBM Developer Advocate, as he guides you in deploying yo
 
 ## 🔥 Important Workshop First Steps 🔥
 
-- ✅ Sign-up for FREE IBM Cloud Account:  [IBM Cloud Signup](https://ibm.biz/BdfQdh)
+- ✅ Sign-up for FREE IBM Cloud Account:  [IBM Cloud Signup](https://ibm.biz/IBM-Cloud-Signup)
 - ✅ Install Node.JS:  [Download Page](https://nodejs.org/en/)
 - ✅ Download PDF of Workshop in Repo: [View Here](https://raw.githubusercontent.com/bradstondevcode/deploy-game-server-rhos-120121/master/Deploying_A_Game_Server_on_RHOS_120121v2.pdf)
 - ✅ Get Access to a Red Hat Open Shift Clusters:  **See Steps Below**
@@ -66,7 +66,7 @@ Thanks in Advance!
 [Register Here](https://developer.ibm.com/conferences/digital-developer-conference-security/)
 
 #### Creating a Multiplayer Game Series
-[Watch on Youtube](https://www.youtube.com/playlist?list=PLMygHu90DtpHqU0wSZ4yUY8yFe2cI56Ok)
+[Watch on Youtube](https://www.youtube.com/playlist?list=PLMygHu90DtpHqU0wSZ4yUY8yFe2cI56Ok) | 
 [Read on Dev.to Blog](https://ibm.biz/creating-mutliplayer-game-server-ep-1-bradstondev)
 
 ## Bonus Learning
