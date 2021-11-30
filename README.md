@@ -15,10 +15,10 @@ Join Bradston Henry, an IBM Developer Advocate, as he guides you in deploying yo
 
 - ✅ Sign-up for FREE IBM Cloud Account:  [IBM Cloud Signup](https://ibm.biz/BdfQdh)
 - ✅ Install Node.JS:  [Download Page](https://nodejs.org/en/)
+- ✅ Download PDF of Workshop in Repo: [View Here](https://raw.githubusercontent.com/bradstondevcode/deploy-game-server-rhos-120121/master/Deploying_A_Game_Server_on_RHOS_120121v2.pdf)
 - ✅ Get Access to a Red Hat Open Shift Clusters:  **See Steps Below**
 - ✅ Sample Server Code for Workshop: [Located in this Repo](https://github.com/bradstondevcode/deploy-game-server-rhos-120121/tree/master/server)
 - ✅ Sample Client Code for Workshop: [Located in this Repo](https://github.com/bradstondevcode/deploy-game-server-rhos-120121/tree/master/client)
-- ✅ Download PDF of Workshop in Repo: [View Here]()
 - ✅ Check out blog version of Workshop! [IBM Developer Blog](https://ibm.biz/deploy-game-server-article-ibmdeveloper-bradstondev)
 
 ## Get Access to Red Hat OpenShift Workshop Cluster
@@ -50,7 +50,7 @@ Thanks in Advance!
 
 ### Resources in Repo
 
-- Workshop Slides: [View Here!]()
+- Workshop Slides: [View Here!](https://raw.githubusercontent.com/bradstondevcode/deploy-game-server-rhos-120121/master/Deploying_A_Game_Server_on_RHOS_120121v2.pdf)
 
 ### Watch Replays of Session
 
